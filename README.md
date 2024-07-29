@@ -1,6 +1,6 @@
 # Project Structure
 
-This document outlines the structure and purpose of the folders and files within the `lib/` directory of this Flutter project. This project uses a combination of the BLoC pattern and MVVM architecture to manage state and data flow.
+This document outlines the structure and purpose of the folders and files within the `lib/` directory of this Flutter project. This project uses a combination of the BLoC pattern to manage state and data flow.
 
 ## Folder Structure
 
